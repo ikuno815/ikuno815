@@ -1,5 +1,5 @@
 - Hi, I’m Ikuno Kanasugi.
-- I’m currently learning JavaScript in Code Chrysalis/Ms.Engineer.
+- I’m currently learning JavaScript.
 - I’m in sales in a Japanese IT company.
 
 
